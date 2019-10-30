@@ -1,0 +1,95 @@
+commit 0c45bc491b4bca8c47a1b59df6c6467b365c61be
+Author: Garrett Kraus <garrett.l.kraus@gmail.com>
+Date:   Wed Oct 30 11:22:21 2019 -0600
+
+    Created Garrett folder; moved GarrettKraus.txt to it.
+
+commit 1ff0b3a66b4f0f0980f941ed7908797e1ac83b7a
+Merge: ee5abbe 817c72f
+Author: Kara Crowder <kara.crowder@gmail.com>
+Date:   Wed Oct 30 11:19:46 2019 -0600
+
+    combining the commits
+
+commit ee5abbe4658f31a7a320006bf20575db1f7d0e66
+Merge: ceacc18 aebd0c8
+Author: Kara Crowder <kara.crowder@gmail.com>
+Date:   Wed Oct 30 11:18:46 2019 -0600
+
+    Added my name to Names.txt
+
+commit 817c72f04e1715505c2405da5a705867a6f11134
+Merge: 9bb61ec aebd0c8
+Author: Garrett Kraus <garrett.l.kraus@gmail.com>
+Date:   Wed Oct 30 11:18:26 2019 -0600
+
+    fixed the merge issue.
+
+commit ceacc18ae2ac7aae288371ff6f8a3913762294c1
+Author: Kara Crowder <kara.crowder@gmail.com>
+Date:   Wed Oct 30 11:17:06 2019 -0600
+
+    Added my name to Names.txt
+
+commit 9bb61ec9d5514ca07be503b9a709cf07aafe87cf
+Author: Garrett Kraus <garrett.l.kraus@gmail.com>
+Date:   Wed Oct 30 11:17:02 2019 -0600
+
+    Added my name to Names.txt
+
+commit aebd0c8de886b876a80ee609d248bfebee7046c0
+Author: jeffersonbarney <jefferson.barney@medifastinc.com>
+Date:   Wed Oct 30 11:16:43 2019 -0600
+
+    Added my name to Names.txt
+
+commit e173b7b5ed595f87bce607d8cd6fc46b8a62cf53
+Author: Kara Crowder <kara.crowder@gmail.com>
+Date:   Wed Oct 30 11:15:38 2019 -0600
+
+    Adding Names.txt
+
+commit f9ada9d23fff462f46fc28165fd7b384b376b73e
+Merge: e75d4b3 f3505d8
+Author: Garrett Kraus <garrett.l.kraus@gmail.com>
+Date:   Wed Oct 30 11:13:59 2019 -0600
+
+    Added GarrettKraus.txt
+
+commit e75d4b3d0cf86329190fd605f69a2737ed25983f
+Merge: ff55bcf 7c72b1c
+Author: Garrett Kraus <garrett.l.kraus@gmail.com>
+Date:   Wed Oct 30 11:12:30 2019 -0600
+
+    Merge branch 'master' of https://github.com/JeffBarney/CS-202
+
+commit ff55bcff9a1c66d8aaea4d2b3777de90bb31a972
+Author: Garrett Kraus <garrett.l.kraus@gmail.com>
+Date:   Wed Oct 30 11:12:23 2019 -0600
+
+    Added GarrettKraus.txt
+
+commit f3505d819a7aefa5036b99daadddfce7d638f74c
+Merge: 8fed106 7c72b1c
+Author: Kara Crowder <kara.crowder@gmail.com>
+Date:   Wed Oct 30 11:12:14 2019 -0600
+
+    Merge branch 'master' of https://github.com/JeffBarney/CS-202
+
+commit 8fed106625d88d6f6d38528a3d4e3902337e2fd1
+Author: Kara Crowder <kara.crowder@gmail.com>
+Date:   Wed Oct 30 11:12:09 2019 -0600
+
+    Added KaraSwindler.txt
+
+commit 7c72b1c1e1c95c0dba4824d4bbeb2d4bb69fb281
+Author: jeffersonbarney <jefferson.barney@medifastinc.com>
+Date:   Wed Oct 30 11:11:35 2019 -0600
+
+    Added JeffersonBarney.txt
+
+commit 7507062ec4280349580324d2e7896a351d1b829c
+Author: JeffBarney <45584477+JeffBarney@users.noreply.github.com>
+Date:   Wed Oct 30 11:06:09 2019 -0600
+
+    Initial commit
