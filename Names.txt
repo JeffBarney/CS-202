@@ -1,6 +1,4 @@
 Names:
-<<<<<<< HEAD
 Kara Swindler
-=======
+Garrett Kraus
 Jefferson Barney
->>>>>>> aebd0c8de886b876a80ee609d248bfebee7046c0
